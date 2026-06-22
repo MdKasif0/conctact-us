@@ -19,7 +19,7 @@ export default function HomePage() {
           <div className="info-grid">
             <article>
               <strong>Inbox</strong>
-              <span>mdkasifuddin123@gmail.com</span>
+              <span>Configured through protected environment variables</span>
             </article>
             <article>
               <strong>Stack</strong>

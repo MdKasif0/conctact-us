@@ -8,11 +8,11 @@ Create a local `.env.local` file for development, and set the same values in Net
 
 ```bash
 RESEND_API_KEY=your_resend_api_key
-TO_EMAIL=mdkasifuddin123@gmail.com
-FROM_EMAIL=onboarding@resend.dev
+TO_EMAIL=your_destination_email@example.com
+FROM_EMAIL=your_verified_sender@example.com
 ```
 
-`FROM_EMAIL` must be a sender verified in Resend. `onboarding@resend.dev` only works for limited testing.
+`FROM_EMAIL` must be a sender verified in Resend.
 
 ## Deploy to Netlify
 
